@@ -4,7 +4,7 @@ public class prueba {
 
         System.out.println("Me encanta el fútbol");
         System.out.println("Me encanta la playa");
-
+	System.out.println("Me encanta Instagram");
     }
 
 }
